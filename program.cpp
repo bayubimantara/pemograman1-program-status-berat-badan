@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
 	
 	//Mulai input dan output
 	cout<<"==============================================================="<<endl;
-	cout<<"Selamat datang di program status berat badan"<<endl;
+	cout<<"Selamat datang di program status berat badan!!!!!"<<endl;
 	cout<<"Program ini dibuat, supaya mengetahui status berat badan anda"<<endl;
 	cout<<"==============================================================="<<endl;
 	cout<<""<<endl;
